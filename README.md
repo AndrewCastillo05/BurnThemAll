@@ -11,11 +11,12 @@ To install, copy all files from this repository to a single directory on your co
 To use this program, simply open you terminal, navigate to the location of the BurnThemAll.sh file, then type "./BurnthemAll.sh" (or type "bash BurnThemAll.sh") without the quotation marks and hit enter.
 
 ## Dependencies
-Installing and using this software requires that you have installed:
+Installing and using this software requires that you are using a system with bash and have installed:
 
-cowsay
-ffmpeg
-wodim
+- cowsay
+- ffmpeg
+- wodim
 
+This program has not been tested and verified to work on WSL/WSL2. Anyone with the time, capability, and hardware to test the program on WSL/WSL2, feel free to reach out. Your help would be greatly appreciated :).
 ## AI use disclosure
 No part of this project has been created with the help, input, assistance, or guidance of any AI, chatbot, or non-human source.
