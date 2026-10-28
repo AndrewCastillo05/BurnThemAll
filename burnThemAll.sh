@@ -22,7 +22,7 @@ echo "*****BurnThemAll.sh v1.0*****"
 sleep 0.5
 echo "BurnThemAll  Copyright (C) 2026  Andrew Castillo"
 echo "This program comes with ABSOLUTELY NO WARRANTY; for details see menu."
-echo "This is free software, and you are welcome to redistribute it under conditions located in the menu."
+echo "This is free software, and you are welcome to redistribute it under conditions located in the LICENSE file."
 echo "Full notice available at https://www.gnu.org/licenses/#GPL"
 cowsay -f daemon "press enter to continue"
 read cont
