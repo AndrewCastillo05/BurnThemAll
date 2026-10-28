@@ -61,6 +61,10 @@ select opt in "Burn CDs" "Convert Files" "Show License Information" "Exit" ; do
 			echo "but WITHOUT ANY WARRANTY; without even the implied warranty of"
 			echo "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the"
 			echo "GNU General Public License for more details."
+			echo "For any questions, comments, or concerns, feel free to reach out"
+			echo "either on the github that hosts this project"
+			echo "https://github.com/AndrewCastillo05/BurnThemAll/"
+			echo "or at my email: andrew.castillo05169@gmail.com"
 			sleep 20
 			exit
 			break
