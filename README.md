@@ -1,2 +1,21 @@
 # BurnThemAll
-This project is a quick and easy CD Burning program. Effectively, what this program allows is for the user to take a folder of mp3 files and burn them. This program handles all file formatting prior to burning the CD. Works on any system that can both run bash and has the required dependencies installed. Requires a compatible CD burner.
+
+## Purpose
+This project is an mp3 reformatter and CD burner. This software is entirely intended to be used for the purpose of reformatting mp3 files and burning them to CDs, and as such does not do anything beyond this.
+
+## Installation
+Works on any linux system with bash.
+To install, copy all files from this repository to a single directory on your computer and then install the required dependencies.
+
+## Usage
+To use this program, simply open you terminal, navigate to the location of the BurnThemAll.sh file, then type "./BurnthemAll.sh" (or type "bash BurnThemAll.sh") without the quotation marks and hit enter.
+
+## Dependencies
+Installing and using this software requires that you have installed:
+
+cowsay
+ffmpeg
+wodim
+
+## AI use disclosure
+No part of this project has been created with the help, input, assistance, or guidance of any AI, chatbot, or non-human source.
